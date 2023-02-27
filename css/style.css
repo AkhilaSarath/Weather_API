@@ -1,0 +1,23 @@
+
+    body{
+        background:url("../images/img1.JPG") no-repeat fixed center;
+     
+    
+    }
+.wt-column {
+    color: #fff;
+    height: 200px;
+    display: flex;
+}
+
+.wt-card {
+    background-color: rgba(60, 75, 75, 0.937) !important;
+    border: 1px solid #fff  !important;
+    border-radius: 5px;
+    height: 100px;
+    text-transform: capitalize;
+}
+.center {
+    text-align: center;
+    width:100%;
+}
